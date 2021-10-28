@@ -12,7 +12,7 @@ Screenshot as below
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/52831729/139256946-81f82843-ff97-4d84-8861-16c7fd2cda7f.png)
 
-#Setup & Run
+# Setup & Run
 Simpley clone this reporisitory,place in your eclipse workspace and Run Main.java class.
 
 
