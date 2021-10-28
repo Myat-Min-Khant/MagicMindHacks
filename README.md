@@ -1,8 +1,8 @@
 # Resource Information
 
-eclipse$\qquad$$\qquad$:  2021-09 (4.21.0)\
-WindowBuilder$\qquad$$\qquad$:  1.9.5\
-java$\qquad$$\qquad$:  1.8.0_301
+eclipse         :  2021-09 (4.21.0)\
+WindowBuilder   :  1.9.5\
+java            :  1.8.0_301
 
 
 # Description
